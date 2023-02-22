@@ -1,0 +1,32 @@
+body {
+    width: 80em;
+    margin: auto;
+    border: 3px solid blue;
+    padding: 15px 25px 15px 15px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+td {
+    padding: 2em;
+    border: 3px green solid;
+    background-color: rgb(207, 205, 205);
+}
+
+.free {
+    visibility: hidden;
+}
+
+.highlight_in {
+    background-color: red;
+}
+
+.hide {
+    display:none;
+}
